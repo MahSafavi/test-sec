@@ -1,3 +1,6 @@
 node_modules/
 vendors/
+#js dependencies
+node_modules/
+
 
